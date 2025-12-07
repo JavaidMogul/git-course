@@ -5,4 +5,5 @@ procedure division.
        display "This is version B".
        display "This is version c".
        display "This is version d".
+       display "This is version 5"
        stop run.
